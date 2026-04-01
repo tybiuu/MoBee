@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "mobee_icon_amber 1.png",
+      "filename" : "icon_amber.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +13,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "mobee_icon_dark.png",
+      "filename" : "icon_dark.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -25,7 +25,7 @@
           "value" : "tinted"
         }
       ],
-      "filename" : "mobee_icon_amber 2.png",
+      "filename" : "icon_dark 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
